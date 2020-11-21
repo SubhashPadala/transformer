@@ -1,6 +1,7 @@
 # transformer
 
-Simple transformer implementation from scratch in pytorch. using http://peterbloem.nl/blog/transformers.
+Simple transformer implementation from scratch in pytorch. 
+source http://peterbloem.nl/blog/transformers.
 
 # Limitations
 
