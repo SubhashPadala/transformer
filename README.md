@@ -1,20 +1,21 @@
-## transformer
+## Transformer
 
-Simple transformer implementation from scratch in pytorch. 
+Simple Transformer implementation from scratch in pytorch. 
 
-## Classifier Transformer
+## Classification Transformer
 
 <p align="left">
  <img  width="600" height="300" src="http://peterbloem.nl/files/transformers/classifier.svg">
 </p>
 
-## Generator Transformer
+## Generation Transformer
 
 <p align="left">
  <img  width="600" height="300" src="http://peterbloem.nl/files/transformers/generator.svg">
 </p>
 
 ## The original transformer: encoders and decoders
+
 <p align="left">
  <img  width="600" height="300" src="http://peterbloem.nl/files/transformers/encoder-decoder.svg">
 </p>
