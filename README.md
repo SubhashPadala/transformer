@@ -4,14 +4,14 @@ Simple transformer implementation from scratch in pytorch.
 
 ## Classifier Transformer
 
-<p align="center">
- <img  width="400" height="300" src="http://peterbloem.nl/files/transformers/classifier.svg">
+<p align="left">
+ <img  width="600" height="300" src="http://peterbloem.nl/files/transformers/classifier.svg">
 </p>
 
 ## Generator Transformer
 
-<p align="center">
- <img  width="400" height="300" src="http://peterbloem.nl/files/transformers/generator.svg">
+<p align="left">
+ <img  width="600" height="300" src="http://peterbloem.nl/files/transformers/generator.svg">
 </p>
 
 
